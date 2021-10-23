@@ -1,0 +1,27 @@
+.divprin{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: black;
+}
+
+.h4{
+    color: white;
+    
+}
+
+p{
+    color: white;
+    font-size: 13px;
+}
+
+img{
+    width: 100%;
+}
+
+.div1, .div2, .div3{
+    width: 200px;
+    background-color: gray;
+    margin: 10px;
+}
+
